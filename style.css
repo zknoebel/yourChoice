@@ -2,6 +2,13 @@
   background-color: rgb(228, 255, 201);
 }
 
+.ui.container{
+  background-image: url("https://www.linuxmint.com/img/bg-wrapper.png");
+}
+
+.ui.huge.borderless.menu.{
+  height: 6em;
+}
 #topMenu{
   padding-top: 7em;
   background-color: transparent;
@@ -18,5 +25,6 @@
 
 #mintLogo{
   margin-top: -2em;
-  margin-right: -8em;
+  with: 10em;
+  height: 9em;
 }
